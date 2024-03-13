@@ -16,6 +16,70 @@
         "option2": "Jonathan Ive",
         "option3": "Ronald Wayne",
         "option4": "Steve Wozniak"
+      },
+      {
+        "question": "What does the &#039;S&#039; in the RSA encryption algorithm stand for?",
+        "correct_answer": "Shamir",
+        "option1": "Secure",
+        "option2": "Shamir",
+        "option3": "Schottky",
+        "option4": "Stable"
+      },
+      {
+        "question": "All of the following programs are classified as raster graphics editors EXCEPT:",
+        "correct_answer": "Inkscape",
+        "option1": "Inkscape",
+        "option2": "Paint.NET",
+        "option3": "GIMP",
+        "option4": "Adobe Photoshop"
+      },
+      {
+        "question": "What is the main CPU is the Sega Mega Drive / Sega Genesis?",
+        "correct_answer": "Motorola 68000",
+        "option1": "Zilog Z80",
+        "option2": "Yamaha YM2612",
+        "option3": "Intel 8088",
+        "option4": "Motorola 68000"
+      },
+      {
+        "question": "Nvidia&#039;s headquarters are based in which Silicon Valley city?",
+        "correct_answer": "Santa Clara",
+        "option1": "Palo Alto",
+        "option2": "Cupertino",
+        "option3": "Santa Clara",
+        "option4": "Mountain View"
+      },
+      {
+        "question": "How many cores does the Intel i7-6950X have?",
+        "correct_answer": "10",
+        "option1": "10",
+        "option2": "12",
+        "option3": "8",
+        "option4": "4"
+      },
+      {
+        "question": "When did the online streaming service &quot;Mixer&quot; launch?",
+        "correct_answer": "2016",
+        "option1": "2013",
+        "option2": "2009",
+        "option3": "2011",
+        "option4": "2016"
+      },
+      {
+        "question": "Which one of these is not an official development name for a Ubuntu release?",
+        "correct_answer": "Mystic Mansion",
+        "option1": "Mystic Mansion",
+        "option2": "Trusty Tahr",
+        "option3": "Utopic Unicorn",
+        "option4": "Wily Werewolf"
+      },
+      {
+        "question": "Generally, which component of a computer draws the most power?",
+        "correct_answer": "Video Card",
+        "option1": "Hard Drive",
+        "option2": "Processor",
+        "option3": "Video Card",
+        "option4": "Power Supply"
       }
     ]
   }
