@@ -1,0 +1,135 @@
+{
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "Whistler was the codename of this Microsoft Operating System.",
+        "correct_answer": "Windows XP",
+        "options": [
+          "Windows 2000",
+          "Windows XP",
+          "Windows 7",
+          "Windows 95"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "Which of these people was NOT a founder of Apple Inc?",
+        "correct_answer": "Jonathan Ive",
+        "options": [
+          "Steve Jobs",
+          "Jonathan Ive",
+          "Ronald Wayne",
+          "Steve Wozniak"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "What does the &#039;S&#039; in the RSA encryption algorithm stand for?",
+        "correct_answer": "Shamir",
+        "options": [
+          "Secure",
+          "Shamir",
+          "Schottky",
+          "Stable"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "All of the following programs are classified as raster graphics editors EXCEPT:",
+        "correct_answer": "Inkscape",
+        "options": [
+          "Inkscape",
+          "Paint.NET",
+          "GIMP",
+          "Adobe Photoshop"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "What is the main CPU is the Sega Mega Drive / Sega Genesis?",
+        "correct_answer": "Motorola 68000",
+        "options": [
+          "Zilog Z80",
+          "Yamaha YM2612",
+          "Intel 8088",
+          "Motorola 68000"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "Nvidia&#039;s headquarters are based in which Silicon Valley city?",
+        "correct_answer": "Santa Clara",
+        "options": [
+          "Palo Alto",
+          "Cupertino",
+          "Santa Clara",
+          "Mountain View"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "How many cores does the Intel i7-6950X have?",
+        "correct_answer": "10",
+        "options": [
+          "10",
+          "12",
+          "8",
+          "4"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "When did the online streaming service &quot;Mixer&quot; launch?",
+        "correct_answer": "2016",
+        "options": [
+          "2013",
+          "2009",
+          "2011",
+          "2016"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "Which one of these is not an official development name for a Ubuntu release?",
+        "correct_answer": "Mystic Mansion",
+        "options": [
+          "Mystic Mansion",
+          "Trusty Tahr",
+          "Utopic Unicorn",
+          "Wily Werewolf"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "Generally, which component of a computer draws the most power?",
+        "correct_answer": "Video Card",
+        "options": [
+          "Hard Drive",
+          "Processor",
+          "Video Card",
+          "Power Supply"
+        ]
+      }
+    ]
+  }

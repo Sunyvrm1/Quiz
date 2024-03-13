@@ -1,0 +1,21 @@
+{
+    "response_code": 0,
+    "results": [
+      {
+        "question": "Whistler was the codename of this Microsoft Operating System.",
+        "correct_answer": "Windows 95",
+        "option1": "Windows 2000",
+        "option2": "Windows XP",
+        "option3": "Windows 7",
+        "option4": "Windows 95"
+      },
+      {
+        "question": "Which of these people was NOT a founder of Apple Inc?",
+        "correct_answer": "Jonathan Ive",
+        "option1": "Steve Jobs",
+        "option2": "Jonathan Ive",
+        "option3": "Ronald Wayne",
+        "option4": "Steve Wozniak"
+      }
+    ]
+  }
