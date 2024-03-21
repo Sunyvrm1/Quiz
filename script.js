@@ -6,9 +6,8 @@ fetch("quiz.json")
     data.results.map((quiz, i) => {
         const quizCont = document.querySelector(".quizCont");
         quizCont.insertAdjacentHTML("beforebegin", 
-        `<p>Question: ${i+1}</p>
-        <form>
-      <label for="" id="${quiz.correct_answer}">${quiz.question}</label><br><br>
+        `<form>
+      <label for="" class="Ques" id="${quiz.correct_answer}">Q. ${i+1}: ${quiz.question}</label><br><br>
       <input type="radio" class="mcq_${i}" name="question_${i}" value="${quiz.option1}"/>
       <label>${quiz.option1}</label><br />
       <input type="radio" class="mcq_${i}" name="question_${i}" value="${quiz.option2}"/>
